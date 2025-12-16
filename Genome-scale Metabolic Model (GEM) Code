@@ -32,7 +32,7 @@ models_info = {
     },
     'Fpr': {
         'name': 'Faecalibacterium prausnitzii',
-        'file': 'Faecalibacterium_prausnitzii_SL7_1.xml',
+        'file': 'Faecalibacterium_prausnitzii_ERR1022279.xml',
     },
     'Ac': {
         'name': 'Anaerostipes caccae',
@@ -40,7 +40,7 @@ models_info = {
     },
     'Ar': {
         'name': 'Agathobacter rectalis',
-        'file': 'Eubacterium_rectale_ATCC_29099.xml',
+        'file': 'Eubacterium_rectale_ATCC_33656.xml',
     }
 }
 
